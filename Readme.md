@@ -1,1 +1,2 @@
 # EBC Website
+# Project Scope
